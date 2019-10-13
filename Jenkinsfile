@@ -1,6 +1,7 @@
 node{
     
     stage('SCM checkout'){
+        <!--this is Nag-->
         
         git 'https://github.com/nrganta/my-app'
     }
